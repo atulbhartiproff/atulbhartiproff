@@ -94,20 +94,10 @@
 
 <li>
 <a href="https://linkedin.com/in/atul-bharti-proff" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  atulbhartiproff-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:atulbhartiproff-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
 <br>
-
-<li>
-<a href="https://twitter.com/atulbhartiproff" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  atulbhartiproff-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
 <li>
 <a href="mailto:atulbhartiproff@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  atulbhartiproff-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
