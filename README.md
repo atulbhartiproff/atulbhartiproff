@@ -93,7 +93,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/atulbhartiproff" target="_blank">
+<a href="https://linkedin.com/in/atul-bharti-proff" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  atulbhartiproff-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -122,21 +122,10 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <br>
 
 Credit: [Atul Bharti](https://github.com/atulbhartiproff)
 
-Last Edited on: 09/11/2022
+Last Edited on: 29/04/2024
