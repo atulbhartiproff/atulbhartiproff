@@ -7,7 +7,7 @@
 <br>
 <br>
 
-- A passionate Self-taught Back-end developer
+- A passionate Self-taught SDE
 - Playing CTF's at spare time
 - Currently learning Machine learning on Coursera
 - First Year CSE Student
