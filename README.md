@@ -30,7 +30,9 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/typescript%20-%231572B6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+- **WEB-3 Development**;
 
+  ![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=purple)
 <br>
 
 - **Cloud Hosting**:
