@@ -33,6 +33,7 @@
 - **WEB-3 Development**;
 
   ![Solidity](https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&logoColor=purple)
+  
 <br>
 
 - **Cloud Hosting**:
