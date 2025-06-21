@@ -68,13 +68,13 @@
     />
     <!-- Default, light mode image -->
     <img 
-        src="https://github.pumbas.net/api/contributions/jondmarien?colour=002AFF&bgColour=F6F8FA"
+        src="https://github.pumbas.net/api/contributions/atulbhartiproff?colour=002AFF&bgColour=F6F8FA"
         alt="jondmarien's Contributions"
     />
    </picture>
   <p align='center'>
-    <a href="https://holopin.io/@jondmarien">
-     <img src="https://holopin.me/jondmarien">
+    <a href="https://holopin.io/@atulbhartiproff">
+     <img src="https://holopin.me/atulbhartiproff">
     </a>
   </p>
 
