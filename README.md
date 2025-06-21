@@ -6,7 +6,7 @@
 
 <h3 align="center">🎧 Now Playing on Spotify</h3>
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME" target="_blank">
+  <a href="https://open.spotify.com/user/aiesatyptkxd72sna7jcbgg9a" target="_blank">
     <img src="https://knowaboutatul.vercel.app/api/spotify" alt="Now Playing" width="420" />
   </a>
 </p>
